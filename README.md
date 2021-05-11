@@ -29,7 +29,7 @@ I love building products. At present I'm learning MERN stack at [Masai School](h
 
 
 
- 👨‍💻 All of my projects are available at [https://naeemns.github.io/naeem-shaik/](https://naeemns.github.io/naeem-shaik/)
+ 👨‍💻 All of my projects are available at [Naeem Shaik](https://naeemns.github.io/)
 
  ### 📫 Reach me out!
 [![Linkedin Badge](https://img.shields.io/badge/NaeemShaik-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naeem-shaik/)  [![Mail Badge](https://img.shields.io/badge/-naeemshaik894-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:naeemshaik894@gmail.com)
